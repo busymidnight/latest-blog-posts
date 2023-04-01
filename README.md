@@ -1,5 +1,5 @@
 
-## 💎 Latest Blog Posts
+## ✅ Latest Blog Posts
 
 [2023/03/31 - GitHub Actions | 깃허브 액션이란?](https://un-lazy-midnight.tistory.com/43) <br/>
 [2023/03/31 - 코드업 100제 | 6098 성실한 개미 (파이썬)](https://un-lazy-midnight.tistory.com/42) <br/>
