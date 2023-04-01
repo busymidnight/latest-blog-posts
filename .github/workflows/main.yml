@@ -4,6 +4,10 @@
 name: Python application
 
 on:
+  push:
+      branches: [ "main" ]
+  pull_request:
+      branches: [ "main" ]
   schedule:
       - cron: '0 0 * * *'
 
@@ -29,6 +33,9 @@ jobs:
         python3 main.py
     - name: Update README.md file
       run: | 
+        git pull
+        git add .
+        git diff
         git config --local user.email "yangang4you@naver.com"
         git config --local user.name "busymidnight"
         git commit -m "Updating Blog Posts"
