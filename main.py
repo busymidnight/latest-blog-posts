@@ -1,7 +1,7 @@
 import feedparser,time,re
 
 URL="http://un-lazy-midnight.tistory.com/rss"
-README_PATH="busymidnight/README.md"
+README_PATH="busymidnight/busymidnight/README.md"
 RSS_FEED = feedparser.parse(URL)
 MAX_NUM = 5
 latest_posts = ""
