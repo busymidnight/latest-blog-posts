@@ -2,7 +2,8 @@ import feedparser,time,re
 import os
 
 URL="http://un-lazy-midnight.tistory.com/rss"
-README_PATH=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'busymidnight', 'README.md')
+README_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'busymidnight', 'README.md')
+
 
 RSS_FEED = feedparser.parse(URL)
 MAX_NUM = 5
