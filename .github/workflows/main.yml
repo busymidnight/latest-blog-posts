@@ -38,6 +38,7 @@ jobs:
         git diff
         git config --local user.email "yangang4you@naver.com"
         git config --local user.name "busymidnight"
+        git add ../busymidnight/README.md
         git commit -m "Updating Blog Posts"
         
     - name: Push changes
