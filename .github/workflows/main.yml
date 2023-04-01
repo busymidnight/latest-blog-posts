@@ -4,12 +4,8 @@
 name: Python application
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
-      - cron: "0 0 */1 * *"
+      - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -17,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -31,10 +29,11 @@ jobs:
         python3 main.py
     - name: Update README.md file
       run: | 
-        git pull
-        git add .
-        git diff
         git config --local user.email "yangang4you@naver.com"
         git config --local user.name "busymidnight"
         git commit -m "Updating Blog Posts"
-        git push
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
