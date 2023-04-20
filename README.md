@@ -1,9 +1,9 @@
 
 ## ✅ Latest Blog Posts
 
+[2023/04/20 - 프로그래머스 | Lv.2 뒤에 있는 큰 수 찾기 (파이썬)](https://un-lazy-midnight.tistory.com/81) <br/>
+[2023/04/19 - MySQL | Mac OS에 MySQL 설치하는 방법 (M1)](https://un-lazy-midnight.tistory.com/80) <br/>
+[2023/04/19 - Spring | IntelliJ 빌드 후 finished with non-zero exit value 1 오류 해결하기](https://un-lazy-midnight.tistory.com/79) <br/>
 [2023/04/18 - 프로그래머스 | Lv.2 멀리뛰기 (파이썬)](https://un-lazy-midnight.tistory.com/78) <br/>
 [2023/04/16 - 프로그래머스 | Lv.2 소수찾기 (파이썬)](https://un-lazy-midnight.tistory.com/77) <br/>
 [2023/04/13 - 프로그래머스 | Lv.3 베스트 앨범 (파이썬)](https://un-lazy-midnight.tistory.com/76) <br/>
-[2023/04/13 - 티스토리 로그인 오류 | 사파리에서만 티스토리 로그인이 안됨 (해결?)](https://un-lazy-midnight.tistory.com/75) <br/>
-[2023/04/11 - 프로그래머스 | Lv.2 전화번호 목록 (파이썬)](https://un-lazy-midnight.tistory.com/74) <br/>
-[2023/04/10 - 프로그래머스 | Lv.2 위장 (파이썬)](https://un-lazy-midnight.tistory.com/73) <br/>
