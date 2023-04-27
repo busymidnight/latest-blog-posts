@@ -9,7 +9,7 @@ on:
   pull_request:
       branches: [ "main" ]
   schedule:
-      - cron: '0 0 * * *'
+      - cron: '0 0 1 * *' #매월 1일 업로드로 변경
 
 jobs:
   build:
