@@ -1,9 +1,9 @@
 
 ## ✅ Latest Blog Posts
 
-[2023/04/26 - 프로그래머스 | Lv.2 주차 요금 계산 (파이썬)](https://un-lazy-midnight.tistory.com/82) <br/>
-[2023/04/20 - 프로그래머스 | Lv.2 뒤에 있는 큰 수 찾기 (파이썬)](https://un-lazy-midnight.tistory.com/81) <br/>
-[2023/04/19 - MySQL | Mac OS에 MySQL 설치하는 방법 (M1)](https://un-lazy-midnight.tistory.com/80) <br/>
-[2023/04/19 - Spring | IntelliJ 빌드 후 finished with non-zero exit value 1 오류 해결하기](https://un-lazy-midnight.tistory.com/79) <br/>
-[2023/04/18 - 프로그래머스 | Lv.2 멀리뛰기 (파이썬)](https://un-lazy-midnight.tistory.com/78) <br/>
-[2023/04/16 - 프로그래머스 | Lv.2 소수찾기 (파이썬)](https://un-lazy-midnight.tistory.com/77) <br/>
+[2023/04/30 - JPA | 예제로 알아보는 상속관계 매핑 (예제-4)](https://un-lazy-midnight.tistory.com/98) <br/>
+[2023/04/30 - JPA | 상속관계 매핑이란? @MappedSuperClass란?](https://un-lazy-midnight.tistory.com/97) <br/>
+[2023/04/30 - JPA | 예제로 알아보는 연관관계 매핑 (예제-3)](https://un-lazy-midnight.tistory.com/96) <br/>
+[2023/04/30 - JPA | 다양한 연관관계 매핑 총정리 (다대일, 일대다, 일대일, 다대다)](https://un-lazy-midnight.tistory.com/95) <br/>
+[2023/04/29 - JPA | 예제로 알아보는 연관관계 매핑 (예제-2)](https://un-lazy-midnight.tistory.com/94) <br/>
+[2023/04/29 - JPA | 양방향 연관관계와 연관관계의 주인, mappedBy가 뭔데?](https://un-lazy-midnight.tistory.com/93) <br/>
