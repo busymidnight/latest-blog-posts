@@ -1,9 +1,9 @@
 
 ## ✅ Latest Blog Posts
 
-[2023/04/30 - JPA | 예제로 알아보는 상속관계 매핑 (예제-4)](https://un-lazy-midnight.tistory.com/98) <br/>
-[2023/04/30 - JPA | 상속관계 매핑이란? @MappedSuperClass란?](https://un-lazy-midnight.tistory.com/97) <br/>
-[2023/04/30 - JPA | 예제로 알아보는 연관관계 매핑 (예제-3)](https://un-lazy-midnight.tistory.com/96) <br/>
-[2023/04/30 - JPA | 다양한 연관관계 매핑 총정리 (다대일, 일대다, 일대일, 다대다)](https://un-lazy-midnight.tistory.com/95) <br/>
-[2023/04/29 - JPA | 예제로 알아보는 연관관계 매핑 (예제-2)](https://un-lazy-midnight.tistory.com/94) <br/>
-[2023/04/29 - JPA | 양방향 연관관계와 연관관계의 주인, mappedBy가 뭔데?](https://un-lazy-midnight.tistory.com/93) <br/>
+[2023/05/22 - CS | 테스트 대비 이것 저것 공부하기 (기록용)](https://un-lazy-midnight.tistory.com/136) <br/>
+[2023/05/17 - Querydsl | 동적 쿼리와 성능 최적화 조회 - Builder, Where절 파라미터](https://un-lazy-midnight.tistory.com/135) <br/>
+[2023/05/16 - Querydsl | 수정, 삭제 벌크 연산하기](https://un-lazy-midnight.tistory.com/134) <br/>
+[2023/05/16 - Querydsl | 동적 쿼리 - BooleanBuilder, Where 다중 파라미터](https://un-lazy-midnight.tistory.com/133) <br/>
+[2023/05/16 - Querydsl | 결과 반환: 프로젝션, DTO, @QueryProjection](https://un-lazy-midnight.tistory.com/132) <br/>
+[2023/05/15 - Querydsl | 쿼리dsl의 기본 문법(설명 추가 예정)](https://un-lazy-midnight.tistory.com/131) <br/>
