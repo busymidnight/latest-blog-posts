@@ -1,9 +1,9 @@
 
 ## ✅ Latest Blog Posts
 
-[2023/06/22 - EC2 서버가 자꾸 죽을 때.... SWAP 파일 생성하자!(메모리 부족할 때 해결방법)](https://un-lazy-midnight.tistory.com/144) <br/>
-[2023/06/22 - 프로그래머스 | Lv.2 메뉴 리뉴얼 (파이썬)](https://un-lazy-midnight.tistory.com/143) <br/>
-[2023/06/22 - 프로그래머스 | Lv.2 더 맵게 (파이썬)](https://un-lazy-midnight.tistory.com/142) <br/>
-[2023/06/22 - 프로그래머스 | Lv.2 롤케이크 자르기 (파이썬)](https://un-lazy-midnight.tistory.com/141) <br/>
-[2023/06/13 - Postman | 포스트맨에서 Cookie(쿠키)를 설정하고 API에서 @CookieValue로 받기](https://un-lazy-midnight.tistory.com/140) <br/>
-[2023/06/13 - 프로그래머스 | Lv.2 게임 맵 최단거리 (파이썬)](https://un-lazy-midnight.tistory.com/139) <br/>
+[2023/07/31 - Java | 엔티티를 조회하는 가장 안전한 방법, Optional](https://un-lazy-midnight.tistory.com/150) <br/>
+[2023/07/18 - 프로그래머스 | Lv.2 오픈채팅방 (파이썬) 2019 KAKAO BLIND RECRUITMENT](https://un-lazy-midnight.tistory.com/149) <br/>
+[2023/07/18 - 프로그래머스 | Lv.2 괄호 회전하기 (파이썬)](https://un-lazy-midnight.tistory.com/148) <br/>
+[2023/07/16 - 프로그래머스 | Lv.2 전력망을 둘로 나누기 (파이썬)](https://un-lazy-midnight.tistory.com/147) <br/>
+[2023/07/16 - 프로그래머스 | Lv.1 최소 직사각형 (파이썬)](https://un-lazy-midnight.tistory.com/146) <br/>
+[2023/07/04 - [해결] AWS EC2 퍼블릭 IP 바뀜 -> 고정 IP 사용하기](https://un-lazy-midnight.tistory.com/145) <br/>
